@@ -1,4 +1,4 @@
-name: rdp-window
+name: rdp-windows
 
 on:
   push:
